@@ -2,6 +2,9 @@
 
 A lightweight terminal-based text processing workstation built for **CODE_OLYMPICS 2026**.
 
+# Live Demo
+-> https://textanalyzercodeolympics--sathishvinayk.replit.app/
+
 ## Competition Combination
 
 | Dimension | Assigned Constraint |
