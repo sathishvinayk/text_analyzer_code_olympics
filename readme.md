@@ -1,4 +1,4 @@
-# Textool
+# Professional Builder code Olympics
 
 A lightweight terminal-based text processing workstation built for **CODE_OLYMPICS 2026**.
 
