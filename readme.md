@@ -5,6 +5,9 @@ A lightweight terminal-based text processing workstation built for **CODE_OLYMPI
 # Live Demo
 -> https://textanalyzercodeolympics--sathishvinayk.replit.app/
 
+# Video Demo
+-> https://youtu.be/5w6uCyo0j54
+
 ## Competition Combination
 
 | Dimension | Assigned Constraint |
