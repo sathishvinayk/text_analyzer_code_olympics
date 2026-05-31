@@ -100,7 +100,7 @@ Typing any text without a command edits the current line.
 # Running
 
 ```bash
-node textool.js myfile.txt
+node analyzer.js sample.txt
 ```
 
 If the file exists, it is loaded.
