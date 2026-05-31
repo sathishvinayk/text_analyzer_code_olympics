@@ -103,6 +103,10 @@ Typing any text without a command edits the current line.
 node analyzer.js sample.txt
 ```
 
+```For rosetta (Second language) Python
+python3 rosetta_stone.py sample.txt
+```
+
 If the file exists, it is loaded.
 
 If it does not exist, a new document is created.
